@@ -1,0 +1,13 @@
+python flask + node js commands
+
+mkdir pythonserver
+cd pythonserver
+python -m venv env     
+we created env(environment in assets)
+inside env
+main.py is the code
+
+
+env\Scripts\activate  
+pip install flask flask_cors pymongo textblob
+python main.py

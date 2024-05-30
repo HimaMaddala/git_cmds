@@ -1,0 +1,13 @@
+npm create vite
+cd client
+npm install
+npm install bootstrap axios react-router-dom
+npm run dev
+
+mkdir server
+cd server
+npm init -y
+npm install express mongoose nodemon bcrypt jsonwebtoken cors dotenv cookie-parser
+
+"type":"module"
+"start":"nodemon index.js"

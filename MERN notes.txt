@@ -1,0 +1,24 @@
+setup commands
+create folder
+create react app (client/frontend)
+install packages inside client 
+
+create server folder
+install express,cors,mongoose,nodemon inside server
+create index.js and mention in server.js
+
+
+-------------------------------------------------------------
+login page tutorial(for this we should 4 technologies)
+https://www.youtube.com/watch?v=S9eCBX-Re8A
+
+1st understand basics
+how to send btw frontend and backend
+https://www.youtube.com/watch?v=KZB6gtKQ9_I&list=PLgIl1e_xt_yaKl8A-rW8GrbXGYdG7N1jx&index=28
+
+how to display data fetched from mongodb
+inserting data into mongodb
+updating existing values
+deleting existing values
+-------------------------------------------------------------
+

@@ -1,0 +1,36 @@
+functionalities to be added:
+
+-------------------------------/mensshirts
+filters:
+1.price
+2.fabric
+3.fit
+4.collar
+and etc..
+-------------------------------/mensshirts
+sort by dropdown
+1.High to Low
+2.Low to High
+------------------------------/mensshirts
+advanced feature:pagination
+------------------------------/productdisplay
+1.images zoom in-macro
+2.customer ratings and reviews
+3.similar products and combinations for a product
+4.if quantity is 0 in database,should display out of stock
+5.Buy now button should be implemented
+
+------------------------------/cartpage
+quantity we selected from product display page should be by default then we can have dropdown to select if wants to
+if proceed to buy is clicked quantity of the stock should be reduced in database
+note:if multiple selected to buy all should be processed!
+
+after placing we should be directed to orders page to see our orders
+----------------------------------
+Account in Navbar
+two logins
+1.User
+2.Merchant
+--------------------------------
+Drop downs and search in Navbar
+search funtionality to search any product
